@@ -1,0 +1,7 @@
+- Rust基础知识
+
+
+- 环境配置: 
+  1. 建立实验仓库
+  2. 建立本地环境: * 安装 Linux 的环境, 我安装的虚拟机是 VirtualBox , Linux 发行版是 Ubuntu
+                  * 创建 ssh key, 克隆 github 代码
