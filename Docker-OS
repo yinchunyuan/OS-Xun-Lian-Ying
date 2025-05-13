@@ -1,0 +1,9 @@
+- 运行容器     docker run
+- 列出容器     docker ps      -a 显示所有容器      -q 仅显示容器的ID
+- 停止容器     docker stop    通过名称或ID停止
+- 查看容器日志 docker logs
+- 删除容器     docker rm      删除已停止的容器(在删除前需要先停止容器或者直接使用-f强制删除运行中的容器)
+- 查看镜像     docker images
+
+
+   
